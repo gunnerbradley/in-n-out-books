@@ -89,7 +89,10 @@
             "scripts": []
           }
         }
-      }
+      },
+      "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
+        }
     }
   },
   "defaultProject": "in-n-out-books"
